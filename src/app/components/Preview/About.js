@@ -14,8 +14,9 @@ const About = () => {
         <div>
           Our software development services cover a wide range of areas, including web development, mobile app
           development, software testing, and maintenance. We use the latest technologies and frameworks to build custom
-          software solutions that meet our clients' specific needs and requirements. Whether you need a simple website
-          or a complex enterprise application, we have the expertise and experience to deliver high-quality results.
+          software solutions that meet our clients&apos; specific needs and requirements. Whether you need a simple
+          website or a complex enterprise application, we have the expertise and experience to deliver high-quality
+          results.
         </div>
       </div>
     </div>
