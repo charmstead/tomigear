@@ -1,10 +1,9 @@
 "use client";
-
 import React from "react";
 
 const About = () => {
   return (
-    <div className="">
+    <div>
       <div className="uk-text-bold uk-margin-top">About</div>
       <div>
         <div>
